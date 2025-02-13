@@ -1,6 +1,4 @@
 
-## 📌 **Lab 2: Printf Vulnerabilities & Memory Exploration**
-
 # Lab 02 - Printf Vulnerabilities & Memory Exploration
 
 ## 📖 Overview
